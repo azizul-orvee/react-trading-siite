@@ -1,0 +1,13 @@
+
+this is a vim file
+lorem30
+
+const data = {
+name:"Azizul Hakim",
+hobby: "coding",
+fav_lan: "python"
+}
+
+const fav_lang = data.fav_lang
+
+>>this is suppossed to be an indented line mofos!
